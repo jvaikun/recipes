@@ -2,6 +2,7 @@
     "recipes":[
         {
             "title":"New York Cheesecake",
+            "author":"Emojoie Cuisine",
             "ingredients":[
                 "120g biscuits", 
                 "60g  melted butter", 
@@ -24,6 +25,7 @@
         },
         {
             "title":"Japanese Cheesecake",
+            "author":"Emojoie Cuisine",
             "ingredients":[
                 "200g cream cheese", 
                 "200ml milk", 
@@ -47,6 +49,7 @@
         },
         {
             "title":"Matcha Muffins",
+            "author":"Emojoie Cuisine",
             "ingredients":[
                 "100g sugar",
                 "2 eggs",
@@ -290,7 +293,7 @@
                 "1. Cut tomatoes into an assortment of slices and chunks and spread over a large plate in a single, slightly overlapping layer. Tuck chunks of mozzarella into the tomato pieces. Drizzle generously with extra-virgin olive oil. Sprinkle with coarse sea salt and black pepper. Tear basil leaves into small pieces with your fingertips and spread them on top. Serve immediately."]
         },
         {
-            "title":"Shrimp �touff�e Recipe",
+            "title":"Shrimp Etouffee Recipe",
             "author":"DANIEL GRITZER",
             "ingredients":[
                 "For the Shrimp Stock (see note):",
