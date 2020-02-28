@@ -1,0 +1,630 @@
+{
+    "recipes":[
+        {
+            "title":"New York Cheesecake",
+            "ingredients":[
+                "120g biscuits", 
+                "60g  melted butter", 
+                "400g cream cheese", 
+                "120g granulated sugar", 
+                "200g sour cream",
+                "150ml heavy cream", 
+                "2 eggs", 
+                "2 tbsp cornstarch", 
+                "1.5tbsp vanilla extract", 
+                "1/4 lemon juice"],
+            "method":[
+                "1. Crush biscuits, mix with melted butter into sandy mixture. Press mixture into bottom of cake pan. Grease and line side of pan with parchment paper.",
+                "2. Soften cream cheese, then cream with sugar.",
+                "3. Add and mix well, one by one: sour cream, heavy cream, eggs, cornstarch, vanilla, lemon juice.",
+                "4. Pour batter into pan. Tap/shake to level and remove bubbles.",
+                "5. Bake in water bath, 180C for 30 minutes, then lower to 150C for 30 minutes, then turn off oven but leave cheesecake for 1 hour. Temperature must gradually lower for even cooking and prevent cake from cracking.",
+                "6. Cool on shelf/rack, then refrigerate for 6 hours.",
+                "7. Carefully remove from pan and serve, plain or with fruit coulis."]
+        },
+        {
+            "title":"Japanese Cheesecake",
+            "ingredients":[
+                "200g cream cheese", 
+                "200ml milk", 
+                "4 egg yolks",
+                "50g flour",
+                "Zest of half lemon",
+                "Juice of half lemon",
+                "4 egg whites",
+                "80g sugar"],
+            "method":[
+                "1. Grease and line cake pan with parchment paper.",
+                "2. Soften cream cheese, then mix with milk until smooth.",
+                "3. Add egg yolks, flour.",
+                "4. Strain mixture to remove lumps.",
+                "5. Add lemon zest and lemon juice.",
+                "6. Whip egg whites, adding sugar in parts until stiff peaks.",
+                "7. Fold egg whites into batter.",
+                "8. Pour batter into pan, carefully remove large bubbles.",
+                "9. Bake in water bath, 140C for 40 minutes, then 120C for 20 minutes. Turn off oven and leave cake in oven for 20 minutes.",
+                "10. Cool on shelf/rack, then carefully remove from pan."]
+        },
+        {
+            "title":"Matcha Muffins",
+            "ingredients":[
+                "100g sugar",
+                "2 eggs",
+                "100ml milk",
+                "100g butter",
+                "150g flour",
+                "10g matcha powder",
+                "7g baking powder",
+                "100g white chocolate"
+            ],
+            "method":[
+                "1. Beat eggs and sugar until light.",
+                "2. Add melted butter and milk, mix until even.",
+                "3. Sift in flour, matcha, and baking powder, mix until smooth.",
+                "4. Mix in white chocolate.",
+                "5. Pour batter into molds, top with some reserved white chocolate.",
+                "6. Bake in oven, 160C for 20 minutes."
+            ]
+        },
+        {
+            "title":"Easy One-Pot Chicken Tinga (Spicy Mexican Shredded Chicken) Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "2 bone-in, skin-on chicken breast halves (about 1 1/4 pounds; 550g)",
+                "Kosher salt and freshly ground black pepper",
+                "2 tablespoons (30ml) lard or vegetable oil",
+                "6 ounces tomatillos, peeled (170g; about 2 medium)",
+                "6 ounces ripe plum tomatoes (170g; about 2 medium)",
+                "4 medium garlic cloves",
+                "1 small white onion, finely chopped",
+                "2 teaspoons dried oregano (preferably Mexican)",
+                "2 bay leaves",
+                "2 tablespoons (30ml) cider vinegar",
+                "2 cups (475ml) homemade or store-bought low-sodium chicken stock (or water)",
+                "2 to 3 canned chipotle chilies in adobo sauce, plus 1 tablespoon (15ml) sauce from can",
+                "2 teaspoons (10ml) Asian fish sauce"],
+            "method":[
+                "1. Season chicken generously with salt and pepper. Heat oil in a medium saucepan over high heat until shimmering. Add chicken skin side down and cook, without moving, until well browned, 6 to 8 minutes. (Lower heat if pot is smoking excessively or chicken starts to burn.) Flip chicken and cook on second side for 2 minutes. Transfer to a large plate and immediately add tomatillos, tomatoes, and garlic to pot. Cook, flipping occasionally, until blistered and browned in spots, about 5 minutes.",
+                "2. Add onion and cook, stirring, until softened, about 2 minutes. Add oregano and bay leaves and cook, stirring, until aromatic, about 30 seconds. Add vinegar and stock. Return chicken to pot, bring to a boil over high heat, then reduce to a bare simmer. Cover the pot and cook, turning chicken occasionally, until chicken registers 145�F when an instant-read thermometer is inserted into the center of the thickest part, 20 to 30 minutes. Transfer chicken to a bowl and set aside. Continue cooking the sauce at a hard simmer, stirring, until reduced to about half its original volume, about 5 minutes longer.",
+                "3. Add chipotle chilies and adobo, remove and discard bay leaves, and blend the sauce using an immersion blender or by transferring to a countertop blender. Sauce should be relatively smooth, with a few small chunks. When chicken is cool enough to handle, discard the skin and bones and finely shred the meat. Return it to the sauce. Add fish sauce and stir to combine.",
+                "4. Bring to a simmer and cook, stirring, until sauce thickens and coats chicken. It should be very moist but not soupy. Season to taste with salt and pepper (if necessary). Chicken tinga can be served in tacos; stuffed into enchiladas or burritos; on top of nachos, tostadas, and sopes; or on its own."]
+        },
+        {
+            "title":"Easy Pressure Cooker Pork Chile Verde Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "4 pounds (1.9kg) boneless pork shoulder, cut into 2-inch chunks",
+                "3/4 pound tomatillos (about 4 tomatillos; 350g), quartered, husks discarded",
+                "2/3 pound Poblano peppers (about 2 peppers; 300g), roughly chopped, seeds and stems discarded (see note)",
+                "6 ounces Anaheim or Cubanelle peppers (about 2 peppers; 170g), roughly chopped, seeds and stems discarded (see note)",
+                "2 serrano or jalape�o chilies, roughly chopped, stems discarded (see note)",
+                "8 ounces white onion (about 1 medium; 225g), roughly chopped",
+                "6 medium cloves garlic, peeled",
+                "1 tablespoon (15g) whole cumin seed, toasted and ground",
+                "Kosher salt",
+                "1/2 cup loosely packed fresh cilantro leaves and fine stems (about 1/2 ounce; 15g), plus more for garnish",
+                "1 tablespoon (15ml) Asian fish sauce",
+                "Fresh corn tortillas and lime wedges, for serving"],
+            "method":[
+                "1. In a pressure cooker, combine pork, tomatillos, Poblano peppers, Anaheim peppers, serrano peppers, onion, garlic, cumin, and a big pinch of salt. Heat over high heat until gently sizzling, then seal pressure cooker, bring to high pressure, and cook for 30 minutes. Release pressure.",
+                "2. Using tongs, transfer pork pieces to a bowl and set aside. Add cilantro and fish sauce to remaining contents of pressure cooker. Blend with an immersion blender or in a countertop blender, then season to taste with salt. Return pork to sauce and stir gently to combine. Serve immediately with tortillas and lime wedges."]
+        },
+        {
+            "title":"Oyakodon (Japanese Chicken and Egg Rice Bowl) Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "1 cup (240ml) homemade dashi, or the equivalent in Hondashi (see note)",
+                "1 tablespoon (15ml) soy sauce, plus more to taste",
+                "2 tablespoons (30ml) dry sake",
+                "1 tablespoon (15g) sugar, plus more to taste",
+                "1 large onion, slivered (about 6 ounces; 170g)",
+                "12 ounces (340g) boneless, skinless chicken thighs, thinly sliced (see note)",
+                "3 thinly sliced scallions, divided",
+                "2 stems mitsuba (optional; see note)",
+                "3 to 4 large eggs (see note)"],
+            "method":[
+                "1. Combine dashi, soy sauce, sake, and sugar in a small saucepan and bring to a simmer over high heat. Adjust heat to maintain a strong simmer. Stir in onion and cook, stirring occasionally, until onion is half tender, about 5 minutes. Add chicken pieces and cook, stirring and turning chicken occasionally, until chicken is cooked through and broth has reduced by about half, 5 to 7 minutes for chicken thighs or 3 to 4 minutes for chicken breast. Stir in half of scallions and all of mitsuba (if using), then season broth to taste with more soy sauce or sugar as desired. The sauce should have a balanced sweet-and-salty flavor.",
+                "2. Reduce heat to a bare simmer. Beat eggs lightly with chopsticks in a medium bowl. Pour eggs into pot in a thin, steady stream (see note), holding your chopsticks over edge of bowl to help distribute eggs evenly (see video above). Cover and cook until eggs are cooked to desired doneness, about 1 minute for runny eggs or 3 minutes for medium-firm.",
+                "3. To Serve: Transfer hot rice to a single large bowl or 2 individual serving bowls. Top with egg and chicken mixture, pouring out any excess broth from saucepan over rice. Add an extra egg yolk to center of each bowl, if desired (see note). Garnish with remaining half of sliced scallions and togarashi. Serve immediately."]
+        },
+        {
+            "title":"Easy Fresh Mexican Chorizo Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "1 1/2 pounds pork shoulder, cut into 1-inch cubes (see note)",
+                "2 1/2 teaspoons kosher salt",
+                "1 tablespoon ancho chili powder",
+                "1/4 teaspoon ground achiote (optional, see note)",
+                "3 medium cloves garlic, minced (about 1 tablespoon)",
+                "1/2 teaspoon dried Mexican oregano",
+                "1 teaspoon ground cumin",
+                "1/2 teaspoon freshly ground black pepper",
+                "1/4 teaspoon ground cloves",
+                "1/4 teaspoon ground coriander seed",
+                "Pinch ground cinnamon",
+                "3 tablespoons red wine or distilled white vinegar"],
+            "method":[
+                "1. Combine all ingredients in a large bowl and toss until homogenous. Let rest for at least 4 hours and up to overnight. When ready to grind, grind through a chilled meat grinder fitted with a 1/4-inch plate. Alternatively, working in 1/4-pound batches, pulse in a food processor until finely chopped. Knead chopped meat by hand in a large bowl, or with the paddle attachment in the stand mixer until slightly tacky. Cook as desired. Chorizo can be stored in a sealed container in the refrigerator for up to 5 days."]
+        },
+        {
+            "title":"Thai-Style Beef With Basil and Chilies (Phat Bai Horapha) Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "1 pound (450g) flank steak, skirt steak, hanger steak, or flap meat, cut into 1/4-inch-thick strips",
+                "1 tablespoon (15ml) soy sauce, divided",
+                "5 teaspoons (25ml) Asian fish sauce, divided",
+                "1 teaspoon (4g) white sugar",
+                "4 to 6 fresh red or green Thai bird chilies, divided",
+                "6 medium cloves garlic, divided",
+                "1 1/2 tablespoons (20g) palm sugar (see note)",
+                "1 small shallot, thinly sliced",
+                "4 makrut lime leaves, very thinly sliced into hairs (central vein discarded), plus more for garnish (see note)",
+                "2 tablespoons (30ml) vegetable or canola oil, divided",
+                "2 cups packed Thai purple basil (about 2 ounces; 55g)(see note)",
+                "Dried Thai chili flakes or red pepper flakes to taste (optional)",
+                "1/4 cup fried shallots (see note)",
+                "Kosher salt"],
+            "method":[
+                "1. Combine beef, 1 teaspoon soy sauce, 2 teaspoons fish sauce, and white sugar in a bowl. Toss to combine and set in refrigerator to marinate for at least 15 minutes and up to overnight.",
+                "2. Roughly chop half of Thai chilies and garlic and place inside a stone mortar with palm sugar. Grind with pestle until a mostly smooth paste has formed. Add remaining fish sauce and soy sauce and mash in mortar to form a sauce. Set aside. Finely slice remaining garlic and chilies and combine with shallot and lime leaves in a small bowl.",
+                "3. When ready to cook, heat 1 tablespoon oil in a wok over high heat until smoking. Add half of beef and cook, without moving, until well seared, about 1 minute. Continue cooking, while stirring and tossing, until beef is lightly cooked but still pink in spots, about 1 minute. Transfer to a large bowl. Repeat with 1 more tablespoon oil and remaining beef, transferring beef to the same bowl. Wipe out wok.",
+                "4. Reheat wok over high heat and add all of the beef, along with sliced garlic/chili/makrut lime mixture. Continue to cook, tossing and stirring constantly, until stir-fry is aromatic and shallots have completely softened, about 1 minute.",
+                "5. Add sauce mixture to wok and cook, tossing and stirring constantly, until completely reduced. (The beef should look moist, but there should be no liquid in the bottom of the wok.) Immediately add basil and toss to combine. Season to taste with salt and and optional Thai chili or red pepper flakes. Transfer to a serving platter. Top with more makrut lime threads and fried shallots. Serve immediately with rice."]
+        },
+        {
+            "title":"Phat Phrik Khing With Tofu and Long Beans (Thai Dry-Curry Stir-Fry) Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "6 dried guajillo, California, or pasilla chilies, stemmed and seeded (45g)",
+                "6 medium cloves garlic, roughly chopped (30g)",
+                "2 medium shallots, peeled and roughly chopped (60g)",
+                "2 to 6 red Thai bird chilies (to taste), roughly chopped",
+                "1 large bunch cilantro stems (about 1 ounce; 30g), roughly chopped",
+                "3 fresh or dried makrut lime leaves (see note), hard central stem removed and discarded, leaves roughly chopped",
+                "1 stalk fresh lemongrass, bottom 3 to 5 inches only (40g), tough outer leaves removed and discarded, tender core thinly sliced",
+                "1 (1-inch) knob galangal, peeled (see note)",
+                "1/2 teaspoon (2g) freshly ground white or black pepper",
+                "Kosher salt",
+                "3 tablespoons (45ml) vegetable oil or coconut oil",
+                "1 (12-ounce; 340g) block firm tofu, cut into 1- by 1- by 1/2-inch squares, pressed firmly between paper towels",
+                "1 pound (450g) green beans or long beans, trimmed and cut into 1 1/2-inch lengths",
+                "1 tablespoon (14g) sugar",
+                "1 tablespoon (15ml) soy sauce"],
+            "method":[
+                "1. Place chilies in a heatproof container and cover with boiling water. Cover and set aside for 10 minutes. Meanwhile, place garlic, shallots, Thai chilies, cilantro, lime leaves, lemongrass, galangal, ground pepper, and 1 teaspoon salt in a mortar and pestle. Pound into a rough paste. Drain chilies, add to mortar, and continue pounding until a rough paste has formed. Alternatively, chop all ingredients in a food processor (see note).",
+                "2. Heat 1 tablespoon (15ml) oil in a wok over medium-high heat until shimmering. Add tofu, spread into a single layer, and cook, occasionally shaking pan gently, until crisp on first side, about 3 minutes. Flip tofu and continue cooking until second side is crisp. Transfer to a bowl and set aside. Add another tablespoon (15ml) oil to the wok and increase heat to high. When oil is smoking, add beans and cook, stirring and tossing occasionally, until blistered and tender, about 3 minutes. Transfer to bowl with tofu.",
+                "3. Add remaining tablespoon (15ml) oil to wok and return to high heat until lightly smoking. Add curry paste all at once and cook, stirring continuously, until aromatic and sizzling, about 1 minute. Return tofu and beans to pan, along with sugar and soy sauce. Stir and toss to combine and coat tofu and beans in curry paste. Season to taste with more salt if desired. Serve immediately with steamed jasmine rice."]
+        },
+        {
+            "title":"Bangkok Street Food: Green Papaya Salad",
+            "author":"CAROLINE RUSSOCK",
+            "ingredients":[
+                "200 grams green papaya (about 1 cup)",
+                "1 to 2 garlic cloves",
+                "2 to 5 small bird's eye chiles",
+                "1 pinch of salt",
+                "1 to 2 teaspoons palm sugar",
+                "2 snake beans (long beans), cut into 1/2-inch lengths",
+                "2 tablespoons roasted peanuts",
+                "4 cherry tomatoes, halved",
+                "2 tablespoons dried baby shrimps",
+                "1 Thai eggplant, sliced (optional)",
+                "2 to 3 tablespoons fish sauce",
+                "1 to 2 tablespoons lime juice"],
+            "method":[
+                "1. Peel and shred the green papaya. Pound the garlic with chiles, salt, and sugar in a clay mortar with a wooden pestle. Add snake beans, peanuts, tomatoes, dried shrimps and when using Thai eggplant, now is the time.",
+                "2. Keep pounding and mixing simultaneously with a large spoon. Season it with fish sauce and lime. Fold in the green papaya and continue pounding and mixing until the papaya is coated with the dressing."]
+        },
+        {
+            "title":"Thai-Style Grilled Chicken (Gai Yang) Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "6 medium cloves garlic",
+                "12 sprigs cilantro, including thick stalks",
+                "3 tablespoons (45g) palm or light brown sugar",
+                "2 teaspoons (10g) ground white pepper",
+                "1 teaspoon (5g) ground coriander",
+                "2 tablespoons (30ml) fish sauce",
+                "2 teaspoons (10ml) dark soy sauce",
+                "2 (3-inch) segments lemongrass (optional)",
+                "1 whole chicken, spine removed, split in half along the breastbone"],
+            "method":[
+                "1. Combine garlic, cilantro, sugar, white pepper, coriander, fish sauce, dark soy sauce, and lemongrass (if using) in the bowl of a food processor. Process until a rough paste is formed. Set aside.",
+                "2. Place chicken halves flat on a cutting board. Insert 2 metal skewers into each chicken half, running parallel through legs and breasts. Transfer chicken to a baking dish that just fits them. Rub on all surfaces with marinade. Cover, transfer to refrigerator, and allow to marinate for at least 2 hours and up to overnight.",
+                "3. When ready to cook, light 1 chimney full of charcoal. When all charcoal is lit and covered with gray ash, pour out and spread coals evenly over half of coal grate. Alternatively, set half the burners of a gas grill to high heat. Set cooking grate in place, cover grill, and allow to preheat for 5 minutes. Clean and oil grilling grate.",
+                "4. Place chicken, skin side up, on cooler side of grill, with legs facing toward hotter side. Cover grill, with vents on lid open and aligned over chicken. Open bottom vents of grill. Cook until an instant-read thermometer inserted into thickest part of breast registers 140�F (60�C), about 45 minutes. Carefully flip chicken and place, skin side down, on hotter side of grill, with breasts pointed toward cooler side. Cover and cook until skin is crisp and an instant-read thermometer inserted into thickest part of breast registers 145 to 150�F (63 to 66�C), about 3 minutes longer. (Be careful, as the skin is very prone to burning.) If chicken threatens to burn before temperature is achieved, carefully slide to cooler side of grill, cover, and continue to cook until done. Do not leave lid off for longer than it takes to check temperature, or chicken will burn.",
+                "5. Transfer chicken to a cutting board and allow to rest for 5 minutes. Carve and serve with chili dipping sauce."]
+        },
+        {
+            "title":"The Best Crispy Roast Potatoes Ever Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "Kosher salt",
+                "1/2 teaspoon (4g) baking soda",
+                "4 pounds (about 2kg) russet or Yukon Gold potatoes, peeled and cut into quarters, sixths, or eighths, depending on size (see note)",
+                "5 tablespoons (75ml) extra-virgin olive oil, duck fat, goose fat, or beef fat",
+                "Small handful picked rosemary leaves, finely chopped",
+                "3 medium cloves garlic, minced",
+                "Freshly ground black pepper",
+                "Small handful fresh parsley leaves, minced"],
+            "method":[
+                "1. Adjust oven rack to center position and preheat oven to 450�F/230�C (or 400�F/200�C if using convection). Heat 2 quarts (2L) water in a large pot over high heat until boiling. Add 2 tablespoons kosher salt (about 1 ounce; 25g), baking soda, and potatoes and stir. Return to a boil, reduce to a simmer, and cook until a knife meets little resistance when inserted into a potato chunk, about 10 minutes after returning to a boil.",
+                "2. Meanwhile, combine olive oil, duck fat, or beef fat with rosemary, garlic, and a few grinds of black pepper in a small saucepan and heat over medium heat. Cook, stirring and shaking pan constantly, until garlic just begins to turn golden, about 3 minutes. Immediately strain oil through a fine-mesh strainer set in a large bowl. Set garlic/rosemary mixture aside and reserve separately.",
+                "3. When potatoes are cooked, drain carefully and let them rest in the pot for about 30 seconds to allow excess moisture to evaporate. Transfer to bowl with infused oil, season to taste with a little more salt and pepper, and toss to coat, shaking bowl roughly, until a thick layer of mashed potato�like paste has built up on the potato chunks.",
+                "4. Transfer potatoes to a large rimmed baking sheet and separate them, spreading them out evenly. Transfer to oven and roast, without moving, for 20 minutes. Using a thin, flexible metal spatula to release any stuck potatoes, shake pan and turn potatoes. Continue roasting until potatoes are deep brown and crisp all over, turning and shaking them a few times during cooking, 30 to 40 minutes longer.",
+                "5. Transfer potatoes to a large bowl and add garlic/rosemary mixture and minced parsley. Toss to coat and season with more salt and pepper to taste. Serve immediately."]
+        },
+        {
+            "title":"30-Minute Pressure Cooker Pho Ga (Vietnamese Chicken Noodle Soup) Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "2 tablespoons canola or vegetable oil",
+                "2 medium yellow onions, split in half",
+                "1 small hand of ginger, roughly sliced",
+                "1 small bunch cilantro",
+                "3 star anise pods",
+                "1 cinnamon stick",
+                "4 cloves",
+                "1 teaspoon fennel seeds",
+                "1 teaspoon coriander seeds",
+                "6 to 8 chicken drumsticks",
+                "1/4 cup fish sauce, plus more to taste",
+                "2 tablespoons rock sugar or raw sugar, plus more to taste"],
+            "method":[
+                "1. Heat oil in a pressure cooker over high heat until smoking. Add halved onions and ginger, cut side down. Cook without moving, reducing heat if smoking excessively, until onion and ginger are well charred, about 5 minutes.",
+                "2. Add cilantro, star anise, cinnamon, cloves, fennel seed, coriander, and chicken to the pot. Add 2 quarts of water, the fish sauce, and the sugar to the pot. Seal the pressure cooker and bring it to high pressure over high heat. Cook on high pressure for 20 minutes, then shock under cold running water in the sink (or release pressure valve if using an electric pressure cooker).",
+                "3. Open pressure cooker. Transfer chicken legs to a plate. Pour broth through a fine mesh strainer into a clean pot and discard solids. Skim any scum off the surface of the broth using a ladle, but leave the small bubbles of fat intact. Season broth to taste with more fish sauce and sugar if desired.",
+                "4. To serve, place re-hydrated pho noodles in individual noodle bowls. Top with chicken legs, sliced onions, and scallions. Pour hot broth over chicken and noodles. Serve immediately, allowing guests to add herbs, bean sprouts, chilis, lime, and sauces as they wish."]
+        },
+        {
+            "title":"Caprese Salad Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "1 1/2 pounds (675g) best-quality ripe tomatoes, mixed sizes, at room temperature",
+                "8 to 12 ounces (225 to 340g) best-quality fresh mozzarella cheese, torn into bite-size chunks",
+                "Best-quality extra-virgin olive oil",
+                "Coarse sea salt, such as Maldon or fleur de sel",
+                "Coarsely ground fresh black pepper",
+                "6 to 8 fresh basil leaves"],
+            "method":[
+                "1. Cut tomatoes into an assortment of slices and chunks and spread over a large plate in a single, slightly overlapping layer. Tuck chunks of mozzarella into the tomato pieces. Drizzle generously with extra-virgin olive oil. Sprinkle with coarse sea salt and black pepper. Tear basil leaves into small pieces with your fingertips and spread them on top. Serve immediately."]
+        },
+        {
+            "title":"Shrimp �touff�e Recipe",
+            "author":"DANIEL GRITZER",
+            "ingredients":[
+                "For the Shrimp Stock (see note):",
+                "2 pounds (900g) shell-on shrimp, or 3 pounds (1.4kg) head-on shrimp (small or large shrimp will work in this recipe; size doesn't matter)",
+                "2 teaspoons Diamond Crystal kosher salt; for table salt, use about half as much by volume",
+                "1/2 teaspoon baking soda",
+                "3 tablespoons (45ml) vegetable or canola oil",
+                "1 medium yellow onion, diced",
+                "2 large ribs celery, diced",
+                "4 medium cloves garlic, smashed",
+                "2 tablespoons (30ml) tomato paste",
+                "1/2 cup (120ml) dry sherry or brandy (optional)",
+                "1 bay leaf",
+                "A few sprigs flat-leaf parsley",
+                "4 sprigs thyme",
+                "For the �touff�e:",
+                "1/2 cup unsalted butter",
+                "1/2 cup all-purpose flour",
+                "1 (8-ounce; 225g) medium yellow onion, diced",
+                "2 large ribs celery (6 ounces; 170g), diced",
+                "1 (8-ounce; 225g) large green bell pepper, stemmed, seeded and diced (or, if you want a sweeter flavor, half of a large green bell pepper and half of a large red bell pepper)",
+                "4 medium cloves garlic, coarsely chopped",
+                "3 scallions, white and light green parts only, thinly sliced, plus more for garnish",
+                "1/2 teaspoon dried oregano",
+                "1/2 teaspoon dried thyme",
+                "1/4 teaspoon garlic powder",
+                "1/4 teaspoon onion powder",
+                "1/4 teaspoon cayenne pepper",
+                "1/8 teaspoon hot paprika (optional)",
+                "3 cups (700ml) shrimp stock, plus more as needed",
+                "2 bay leaves",
+                "Kosher salt and freshly ground black pepper",
+                "Warm long grain rice, for serving"],
+            "method":[
+                "1. For the Shrimp Stock (see note): Peel and devein the shrimp, reserving the shrimp shells; if using head-on shrimp, also twist off the heads and reserve with the shells. In a medium bowl, combine peeled shrimp with the 2 teaspoons salt and 1/2 teaspoon baking soda and stir well. Refrigerate the shrimp until it's time to add them to the �touff�e.",
+                "2. In a heavy-bottomed stock pot or Dutch oven, heat oil over high heat until shimmering. Add shrimp shells and heads (if using) and cook, stirring constantly and scraping up any browned bits as they form on the bottom of the pot, until it becomes difficult to remove the browned bits and there's any indication they could start to burn, about 4 minutes; lower the heat if necessary to avoid burning at any point.",
+                "3. Add onion, celery, and garlic, and continue to cook, stirring and scraping, until softened. Add tomato paste and stir well until incorporated. If using sherry or brandy, add it to the pot and bring to a boil, scraping up any browned bits, then add 2 quarts water. (If not using sherry or brandy, just add the water right away).",
+                "4. Add bay leaf, parsley, and thyme, bring to a gentle simmer, then cook for 45 minutes. Strain the stock; do not skim the oil from the surface of this stock (it contains a lot of the shrimp flavor and won't be a problem for the �touff�e).",
+                "5. For the �touff�e: In a Dutch oven, melt butter over medium-high heat until foaming. Add flour and stir to form a smooth paste. Cook, stirring and scraping the bottom very frequently, until roux turns the color of your choice: light tan, peanut butter�colored, or chocolatey brown. The color of the roux will change the flavor of the �touff�e, from mild and light with a sweet shrimp flavor for a blond roux to dark, slightly bitter, and complex for a darker brown one.",
+                "6. Add onion, celery, and bell pepper, lower heat to medium, and cook, stirring, until vegetables are coated in the floury paste and have softened slightly, about 4 minutes. Stir in garlic and scallion and cook for 1 minute.",
+                "7. Stir in dried oregano, dried thyme, garlic powder, onion powder, cayenne, and hot paprika, if using.",
+                "8. Add the shrimp stock in ladlefuls, stirring well to incorporate between each addition. At first the stock will form a thick, gluey paste with the flour, but it will eventually thicken to a thick sauce. Bring to a simmer, then lower heat to maintain a bare simmer.",
+                "9. Add bay leaves, season with salt and pepper, then cover and simmer, occasionally stirring and scraping the bottom to prevent scorching, until vegetables are very soft, about 30 minutes.",
+                "10. Stir in shrimp and cook until they just turn pink and are cooked through (this will depend on the size of the shrimp). At this point, if the �touff�e is too thick for your taste, add additional stock as needed to thin it to your desired consistency.",
+                "11. Season �touff�e with salt and pepper. Spoon into bowl or onto plates with warm rice. Garnish with thinly sliced scallions and serve."]
+        },
+        {
+            "title":"Mustardy Coleslaw Recipe",
+            "author":"JOSHUA BOUSEL",
+            "ingredients":[
+                "For the Dressing:",
+                "1/3 cup mayonnaise",
+                "1/3 cup yellow mustard",
+                "1/3 cup cider vinegar",
+                "1/3 cup sugar",
+                "2 tablespoons hot sauce, preferably Texas Pete",
+                "1 teaspoon celery seeds",
+                "For the Slaw Mix:",
+                "1 large head green cabbage (about 3 1/2 pounds), finely shredded on a mandoline or by hand",
+                "1 large carrot, peeled and grated on the large holes of a box grater",
+                "2/3 cup sugar",
+                "1/3 cup kosher salt"],
+            "method":[
+                "1. For the Dressing: Whisk together mayonnaise, mustard, vinegar, sugar, hot sauce, and celery seeds in small bowl.",
+                "2. For the Slaw: Combine cabbage and carrot in a large bowl. Sprinkle with sugar and salt and toss to combine. Let stand five minutes, then transfer to a large colander and rinse thoroughly under cold running water.",
+                "3. Transfer vegetables to a salad spinner and spin dry. Alternatively, transfer to a large rimmed baking sheet lined with a triple layer of paper towels or a clean kitchen towel and blot mixture dry with more towels. Return to large bowl.",
+                "4. Pour dressing over vegetables and toss to coat. Adjust seasoning to taste with salt, pepper, and/or sugar."]
+        },
+        {
+            "title":"Spaghetti alle Vongole in Bianco Recipe",
+            "author":"DANIEL GRITZER",
+            "ingredients":[
+                "Kosher salt",
+                "3 pounds (1.25kg) fresh small clams, such as littlenecks, Manilas, or cockles (about 3 dozen littlenecks or 4 dozen Manilas or cockles)",
+                "3 tablespoons (45ml) extra-virgin olive oil, plus more as needed",
+                "3 medium cloves garlic, very thinly sliced",
+                "Pinch red pepper flakes",
+                "1/2 cup (120ml) dry white wine",
+                "1 pound (450g) dried spaghetti",
+                "1 tablespoon (15g) unsalted butter (optional)",
+                "Small handful minced fresh parsley leaves"],
+            "method":[
+                "1. Fill a large bowl with cold water and stir in enough salt to make it salty like the sea. Add clams and let stand 30 minutes. Lift clams from water and discard purging water; if there is sand in the bottom of the bowl, rinse it out and repeat this process until clams no longer release sand into the water (usually 2 to 3 purging cycles). Discard any clams that are gaping open and refuse to close when prodded.",
+                "2. In a large skillet, combine oil with garlic and red pepper flakes. Cook over medium heat until garlic is very lightly golden, about 5 minutes. (Adjust heat as necessary to keep it gently sizzling.)",
+                "3. Add white wine and clams, cover, and increase heat to high. Cook, checking every 30 seconds or so and transferring clams as they open to a large heatproof bowl, until all clams have opened, about 5 minutes. Remove skillet from heat.",
+                "4. Allow clams to cool slightly, then pull meat from shells; save a few shell-on clams per serving for garnish. If clam meat is large (for example, from larger littleneck clams), you can roughly chop it.",
+                "5. In a pot or large skillet of lightly salted water, cook pasta until just shy of al dente (about 1 minute less than cooking time on package). Transfer pasta to skillet with white-wine sauce, add a few tablespoons of pasta cooking water, and cook over high heat, stirring and tossing rapidly, until sauce has reduced and is beginning to form a creamy, emulsified coating on the noodles. Add butter, if using, and both clam meat and shell-on clams. Cook, stirring, until butter is melted and clams are heated through, about 1 minute; add more pasta water, 1 tablespoon at a time, if sauce over-reduces and becomes dry or greasy. Season with salt if necessary. Remove from heat.",
+                "6. Stir in parsley and a drizzle of fresh olive oil. Transfer to bowls and serve right away."]
+        },
+        {
+            "title":"The Ultimate Patty Melt Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "6 tablespoons butter",
+                "2 slices rye bread",
+                "4 slices American cheese, torn into large pieces",
+                "4 slices Swiss cheese, torn into large pieces",
+                "Kosher salt",
+                "Freshly ground black pepper",
+                "1/2 pound freshly ground chuck, formed into two 4-ounce patties, roughly the size and shape of 1 slice bread",
+                "1 large onion, split in half, sliced thin from pole to pole (about 2 cups)",
+                "1/2 cup water"],
+            "method":[
+                "1. Melt 1 tablespoon butter in 12-inch heavy-bottomed skillet over medium heat until foaming. Add two slices bread and swirl around pan using hand or spatula. Cook, swirling occasionally until pale golden brown, about 3 minutes. Transfer to cutting board cooked-side up. Divide American cheese evenly between slices, layering them in the center and leaving a 1/4-inch gap around the edges.",
+                "2. Repeat step 1 with remaining bread slices and Swiss cheese.",
+                "3. Season hamburger patties on both sides with salt and pepper. Return skillet to heat to high and melt 1 tablespoon butter in skillet until light brown. Swirl to coat bottom of skillet and add both burger patties. Cook without moving until dark brown crust forms on first side, about 1 1/2 minutes, reducing heat to medium if butter begins to burn or smoke excessively. Flip burgers using spatula and cook on second side without moving until crust develops, 1 1/2 minutes longer.",
+                "4. Transfer burger patties to plate and reduce heat to medium. Add onions, 1 tablespoon butter, and 2 tablespoons water to skillet. Season with salt and pepper. Cook, stirring constantly and scraping up browned bits from bottom of skillet until water evaporates and onions start to fry and leave brown residue on bottom of pan. Add another two tablespoons water and continue to cook. Repeat two more times until water is used up and onions are soft and deep golden brown. Add collected juices from meat plate to onions and continue to cook for 30 seconds. Onions should be moist, but not dripping.",
+                "5. Divide onion mixture evenly between cheese-topped toast slices. Add burger patties to slices with American cheese and close sandwiches.",
+                "6. Add 1 tablespoon butter to skillet. Return to medium heat and cook until butter melts. Sprinkle with salt. Swirl to coat pan and add sandwiches. Cook, swirling sandwiches around pan frequently until deep golden brown on bottom, about 5 minutes. Remove sandwiches from skillet, melt remaining tablespoon butter in pan and sprinkle with salt. Return sandwiches to skillet and cook, swirling frequently until second side is golden brown and cheese is melted. Serve immediately."]
+        },
+        {
+            "title":"Ultra-Smashed Cheeseburgers Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "1 soft hamburger roll, buttered and toasted",
+                "Condiments and toppings as desired, such as mayonnaise, mustard, shredded lettuce, onions, tomatoes, and pickles",
+                "4 ounces (110g) freshly ground beef chuck, divided into two 2-ounce (55g) balls",
+                "Kosher salt and freshly ground black pepper",
+                "1 slice good melting cheese, such as American, cheddar, or homemade melting cheese"],
+            "method":[
+                "1. Prepare burger bun by laying toppings on bottom half of bun. Have it nearby and ready for when your burger is cooked.",
+                "2. Preheat a large stainless steel saut� pan or skillet over high heat for 2 minutes. Place balls of beef in pan and smash down with a stiff metal spatula, using a second spatula to add pressure. Smashed patties should be slightly wider than burger bun.",
+                "3. Season generously with salt and pepper and allow to cook until patties are well browned and tops are beginning to turn pale pink/gray in spots, about 45 seconds. Using a bench scraper or the backside of a stiff metal spatula, carefully scrape patties from pan, making sure to get all of the browned bits.",
+                "4. Flip patties and immediately place a slice of cheese over 1 patty, then stack the second directly on top. Immediately remove from pan and transfer to waiting burger bun. Serve."]
+        },
+        {
+            "title":"Quick and Easy Pressure Cooker Black Beans With Chorizo Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "1 tablespoon vegetable oil",
+                "6 ounces Spanish-style chorizo, split in half lengthwise and cut into 1/4-inch half moons (see note)",
+                "1 pound dried black beans",
+                "1 whole onion, split in half",
+                "6 whole garlic cloves",
+                "1 orange, split in half",
+                "2 bay leaves",
+                "2 quarts homemade or store-bought low-sodium chicken stock",
+                "2 teaspoons kosher salt, plus more for seasoning",
+                "Chopped fresh cilantro, for serving"],
+            "method":[
+                "1. Heat oil in pressure cooker until shimmering. Add chorizo and cook, stirring, until it releases its fat and starts to crisp, about 2 minutes. Add beans, onion, garlic cloves, orange, bay leaves, chicken stock, and 2 teaspoons salt. Cover and cook at high pressure for 40 minutes.",
+                "2. For extra-tender and creamy beans, allow pressure to release naturally. For firmer beans, use quick-release valve on an electric pressure cooker, or run a stovetop pressure cooker under cold running water until pressure dissipates. Remove lid and discard onion, orange, and bay leaves. Season to taste with salt and serve. Sprinkle with fresh cilantro at the table."]
+        },
+        {
+            "title":"Spicy Chicken Quesadillas Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "3 ounces (85g) shredded cooked chicken breast",
+                "1 tablespoon (12g) minced pickled jalapeno",
+                "1 tablespoon (12g) minced fresh cilantro leaves",
+                "4 ounces (115g) shredded pepper Jack cheese",
+                "2 (8-inch) flour tortillas",
+                "2 tablespoons (30ml) vegetable oil",
+                "Salt"],
+            "method":[
+                "1. Combine chicken, jalapeno, cilantro, and pepper Jack in a medium bowl and mix to combine. Spread half of mixture evenly over half of one tortilla, leaving a 1/2-inch border. Fold tortilla over and seal edges by pressing down firmly. Repeat with remaining filling and second tortilla.",
+                "2. Heat oil in a 10-inch cast iron or nonstick skillet over medium heat until shimmering. Carefully add both folded tortillas and cook, swirling and moving tortillas around, until golden brown and puffy on first side, about 2 minutes. Using a flexible metal spatula, flip quesadillas, season with salt, and continue cooking until golden brown and puffy on second side, about 2 minutes longer.",
+                "3. Transfer quesadillas to a paper towel to drain. Cut into triangles and serve immediately."]
+        },
+        {
+            "title":"15-Minute Caramelized Onions Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "1 tablespoon butter",
+                "2 to 3 large onions, finely sliced (about 5 cups)",
+                "Water",
+                "Kosher salt"],
+            "method":[
+                "1. Melt butter in a large heavy-bottomed stainless steel or enameled cast iron saucepan over high heat. Add onions and cook, stirring frequently, until bottom of saucepan is glazed in a pale brown fond, about 5 minutes. Add 2 tablespoons water and scrape up fond with wooden spoon. Continue to cook, stirring frequently, until fond has built up again, about 2 minutes longer. Add 2 more tablespoons water and scrape up browned bits. Repeat cooking, adding water, and scraping until onions are completely softened and a deep, dark brown, about 15 minutes total. Season to taste with salt. Remove from saucepan rapidly to prevent burning."]
+        },
+        {
+            "title":"Grilled Shrimp With Garlic and Lemon Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "2 1/2 pounds (1kg) large shrimp (15�20 per pound), peeled and deveined",
+                "1/2 teaspoon baking soda",
+                "1 tablespoon (15g) kosher salt, plus more to taste",
+                "1 teaspoon (5g) sugar",
+                "4 medium cloves garlic, minced, divided",
+                "1/4 cup (60ml) extra-virgin olive oil, divided",
+                "1 teaspoon zest and 4 teaspoons (20ml) juice from 1 lemon",
+                "2 tablespoons minced fresh parsley leaves",
+                "Freshly ground black pepper"],
+            "method":[
+                "1. Combine shrimp, baking soda, salt, and sugar in a medium bowl and toss to coat. Thread shrimp onto sets of 2 skewers, alternating heads to tails and pushing shrimp so that they are nestled snugly together; you should have about 6 shrimp on each set of skewers. Lay skewers on top of a baking dish so that shrimp are suspended above bottom of dish. Transfer to refrigerator and allow to rest for 1 hour. Meanwhile, combine half of garlic and half of olive oil in a small bowl. Combine remaining garlic, olive oil, lemon zest and juice, and parsley leaves in a large bowl. Set aside.",
+                "2. When shrimp are ready to grill, brush both sides with first garlic/oil mixture. Light 1 chimney full of charcoal. When all charcoal is lit and covered with gray ash, pour out and arrange coals on one side of charcoal grate. Set cooking grate in place, cover grill, and allow to preheat for 5 minutes. Alternatively, set half the burners on a gas grill to the highest heat setting, cover, and preheat for 10 minutes. Clean and oil grilling grate.",
+                "3. Place shrimp directly over hot side of grill and cook, turning occasionally, until shrimp are just cooked through and well charred, 4 to 5 minutes total. Transfer shrimp to a cutting board.",
+                "4. Carefully remove skewers from shrimp and transfer to bowl with garlic/oil/lemon mixture. Toss to coat. Season to taste with salt and pepper and serve immediately."]
+        },
+        {
+            "title":"Tex-Mex-Style Soft and Chewy Flour Tortillas Recipe",
+            "author":"JOSHUA BOUSEL",
+            "ingredients":[
+                "2 cups all-purpose flour",
+                "1 1/2 teaspoons baking powder",
+                "1 1/2 teaspoons kosher salt",
+                "3 tablespoons lard or vegetable shortening",
+                "3/4 cups warm water (approximately 110F)"],
+            "method":[
+                "1. Whisk together flour, baking powder, and salt in a medium bowl. Rub lard into flour mixture using your fingertips until mixture resembles coarse crumbs. Add warm water and work dough with hands until completely combined and no dry flour is left in bowl.",
+                "2. Turn dough out onto a lightly floured work surface and knead until smooth, about 1 minute. Cover with a damp cloth or plastic wrap and let rest for 10 minutes. Divide dough into 8 equal pieces; roll each piece of dough into a ball. Cover dough balls with a damp cloth or plastic wrap and let rest an additional 15 minutes.",
+                "3. Preheat cast iron skillet, griddle, or comal to 500F. Place one ball of dough on a lightly floured surface and pat down into a flat disc. Using a rolling pin, roll dough out to an 8-inch round. Place dough in skillet and cook until bubbles form on top side and bottom side has brown spots, 30-60 seconds. Flip tortilla and cook until second side develops brown spots, 30-60 seconds longer. Transfer tortilla to a plate and cover with clean dish cloth. Repeat with remaining balls of dough. Serve immediately while still warm."]
+        },
+        {
+            "title":"Thin and Tender Flour Tortillas Recipe",
+            "author":"JOSHUA BOUSEL",
+            "ingredients":[
+                "2 cups all-purpose flour",
+                "1 teaspoon of kosher salt",
+                "1/4 cup cold lard, preferably back lard (see note)",
+                "3/4 cups cold water"],
+            "method":[
+                "1. Place flour and salt in the work bowl of a food processor fitted with a steel blade and pulse to combine. Add lard and pulse until mixture resembles coarse crumbs. Add water and process until a cohesive dough forms.",
+                "2. Turn dough out onto a lightly floured work surface and knead until smooth, about 1 minute. Cover with a damp cloth or plastic wrap and let rest for 10 minutes. Divide dough into 10 equal pieces; roll each piece of dough into a ball. Cover dough with a damp cloth or plastic wrap and let rest an additional 15 minutes.",
+                "3. Heat cast iron skillet, griddle, or comal over medium-high heat. Meanwhile, place one ball of dough on a lightly floured work surface and pat down into a flat disc. Using a rolling pin, roll dough out to a very thin 8-inch round. Place dough in skillet and cook until bubbles form on top side and bottom side has light browned spots, 15-30 seconds. Flip tortilla and cook until second side develops light browned spots, 15-30 seconds longer. Transfer tortilla to a plate and cover with dish cloth. Repeat with remaining balls of dough. Serve immediately while still warm."]
+        },
+        {
+            "title":"Cornmeal Pancakes",
+            "author":"SYDNEY OLAND",
+            "ingredients":[
+                "6 ounces (1 cup) yellow cornmeal",
+                "2 tablespoons honey",
+                "1 cup boiling water",
+                "2.5 ounces (1/2 cup) flour",
+                "2 teaspoons baking soda",
+                "1/2 teaspoon salt",
+                "1/2 cup milk",
+                "1 egg",
+                "1/3 - 1/2 cup frozen corn kernels",
+                "2-4 tablespoons of butter, for the griddle"],
+            "method":[
+                "1. Combine cornmeal and honey in a heatproof bowl, boil water and add to honey/cornmeal mixture. Cover and let sit for ten minutes.",
+                "2. Mix flour, baking soda and salt until combined. In a separate container, beat egg and milk together. Once cornmeal mixture has sat for ten minutes, combine wet and dry ingredients and fold in softened cornmeal. Add desired amount of frozen corn kernels.",
+                "3. Preheat griddle over medium high heat. Melt 1/2 tablespoon of butter on griddle, and add 3 tablespoons of batter for each pancake (make sure to leave room for spreading). When bubbles begin to appear, the pancake is ready to flip. Repeat with remaining batter until all pancakes are cooked. Serve these pancakes with a drizzle of honey, cracked black pepper and coarse sea salt."]
+        },
+        {
+            "title":"Bo Luc Lac (Vietnamese Shaking Beef)",
+            "author":"rasamalaysia.com",
+            "ingredients":[
+                "Beef Marinade:",
+                "1.5 lbs beef sirloin (or any cut you like) cut into 1? cubes",
+                "2 tbsp minced garlic",
+                "1.5 tbsp sugar",
+                "2 tbsp oyster sauce",
+                "1 tbsp fish sauce",
+                "1 tbsp sesame oil",
+                "1 ts thick soy sauce",
+                "Vinaigrette:",
+                "1/2 cup rice vinegar",
+                "1.5 tbsp sugar",
+                "1/2 tbsp salt",
+                "Dipping Sauce:",
+                "Juice of 1 lime",
+                "1/2 ts kosher salt",
+                "1/2 ts fresh cracked pepper",
+                "1 red onion, thinly sliced",
+                "2 bunches of watercress, long stems trimmed",
+                "2 tomatoes, thinly sliced",
+                "Cooking oil for frying"],
+            "method":[
+                "Prepare marinade by combining garlic, oyster sauce, sugar, fish sauce, thick soy sauce and sesame oil with the beef for at least half an hour, preferably 1-2 hrs.",
+                "Prepare vinaigrette by mixing rice vinegar with salt and sugar. It should be a balance of sour, salty and sweet.",
+                "Thinly slice the red onion and use about 3-4 tbsp of the vinaigrette to pickle and set aside covered in fridge for about 10 minutes. Prepare bed of watercress and tomatoes in a serving platter and set aside.",
+                "Heat a large wok or pan over high heat. Add about 2 tbs cooking oil and when it begins to smoke, add an even layer of beef and allow to sear for about 2 minutes, before �shaking� to sear the opposite sides for about another 1-2 minute more to brown all the sides.  Do this in batches to cook all the beef if necessary.",
+                "Transfer beef to bed of watercress and tomatoes. Drizzle another 3-4 tbsp of vinaigrette over the beef and greens and top with pickled red onions. Lastly, squeeze lime juice over salt and pepper in a small ramekin."]
+        },
+        {
+            "title":"Peanut Cookies",
+            "author":"All About Kueh and Pastries",
+            "ingredients":[
+                "200g plain flour",
+                "sift with icing sugar",
+                "150g icing sugar",
+                "1/2 tsp salt",
+                "200g roasted peanuts, ground",
+                "50g roasted peanuts, whole",
+                "140ml peanut oil",
+                "1 yolk - beat thoroughly with 2 tsp water"],
+            "method":[
+                "Preheat oven to 180C. Line baking tray with parchment paper.",
+                "Mix flour, sugar and salt. Add 200g ground peanuts. Mix thoroughly. Add oil. Mix till even, adding more oil if crumbly, or more plain flour if sticky.",
+                "Divide dough into small pieces weighing 10g each. Roll each piece into a ball. Place balls on baking tray spaced about 3 cm apart. Garnish with remaining whole peanuts, 1 per ball, pressing nuts firmly into dough.",
+                "Bake cookies till peanuts on top are lightly browned, about 10 minutes. Brush with egg yolk. Continue baking till cookies are well browned, 5-10 minutes. Transfer cookies to wire rack. Leave till cool. Serve immediately or store airtight."]
+        },
+        {
+            "title":"Basic New York-Style Pizza Dough Recipe",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "630g bread flour",
+                "15g sugar (about 1 1/2 tablespoons)",
+                "10g kosher salt (about 1 tablespoon)",
+                "10g instant yeast (about 2 teaspoons)",
+                "32g Extra Virgin olive oil (about 3 tablespoons)",
+                "420g lukewarm water (about 1 3/4 cups)"],
+            "method":[
+                "1. Combine flour, sugar, salt, and yeast in bowl of food processor. Pulse 3 to 4 times until incorporated. Add olive oil and water. Run food processor until mixture forms ball that rides around the bowl above the blade, about 15 seconds. Continue processing 15 seconds longer.",
+                "2. Transfer dough ball to lightly floured surface and knead once or twice by hand until smooth ball is formed. It should pass the windowpane test. Divide dough into three even parts and place each in a covered quart-sized deli container or in a zipper-lock freezer bag. Place in refrigerator and allow to rise at least 1 day, and up to 5. Remove from refrigerator, shape into balls, and allow to rest at room temperature for at least 2 hours before baking."]
+        },
+        {
+            "title":"Basic Square Pan Pizza Dough Recipe (Sicilian-Style Dough)",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "500g all-purpose or bread flour",
+                "10g kosher salt (about 2 teaspoons)",
+                "5g instant yeast (1 teaspoon)",
+                "1/2 cup extra-virgin olive oil, divided",
+                "347g water, room temperature"],
+            "method":[
+                "1. Combine flour, salt, yeast, and 2 tablespoons olive oil in bowl of stand mixer (see note for mixer-free version). Whisk to combine. Add water to mixer and mix on medium speed until it comes together and no dry flour remains. Increase speed to medium-high and mix until the dough is stretchy and smooth, about 6 minutes. The dough should stick to the bottom of the bowl but pull away from the sides.",
+                "2. Pour remaining olive oil into rimmed baking sheet and spread over entire inner surface with hands. Transfer dough to 13- by 18-inch rimmed baking sheet and rub top surface with oil until thoroughly coated. Cover with baking sheet with plastic wrap and allow to rise at room temperature until dough has spread out to touch nearly each rim of baking sheet, about 2 hours.",
+                "3. 30 minutes before baking, adjust oven rack to middle position and preheat oven to 550�F. Carefully remove plastic wrap from pizza dough. Using oiled hands and being as gentle as possible to maintain air bubbles, push and stretch the dough into the corners of the pan by pressing out from the center and lifting each corner and stretching it beyond the edge of the pan. It should pull back until the pan is just filled with dough.",
+                "4. Top pizza as desired (see note) and bake until bottom is crisp and top surface is bubbling, 15 to 20 minutes total. Allow to cool at room temperature for 5 minutes."]
+        },
+        {
+            "title":"Chocolate Chip Cookies (Serious Eats, or NYT)",
+            "author":"J. KENJI LOPEZ-ALT",
+            "ingredients":[
+                "2 cups minus 2 tablespoons (8 1/2 ounces) cake flour",
+                "1 ? cups (8 1/2 ounces) bread flour",
+                "1 � teaspoons baking soda",
+                "1 � teaspoons baking powder",
+                "1 � teaspoons coarse salt",
+                "2 � sticks (1 1/4 cups) unsalted butter",
+                "1 � cups (10 ounces) light brown sugar",
+                "1 cup plus 2 tablespoons (8 ounces) granulated sugar",
+                "2 large eggs",
+                "2 teaspoons natural vanilla extract",
+                "1 � pounds bittersweet chocolate disks or f�ves, at least 60 percent cacao content (see note)",
+                "Sea salt."],
+            "method":[
+                "1. Sift flours, baking soda, baking powder and salt into a bowl. Set aside.",
+                "2. Using a mixer fitted with paddle attachment, cream butter and sugars together until very light, about 5 minutes. Add eggs, one at a time, mixing well after each addition. Stir in the vanilla. Reduce speed to low, add dry ingredients and mix until just combined, 5 to 10 seconds. Drop chocolate pieces in and incorporate them without breaking them. Press plastic wrap against dough and refrigerate for 24 to 36 hours. Dough may be used in batches, and can be refrigerated for up to 72 hours.",
+                "3. When ready to bake, preheat oven to 350 degrees. Line a baking sheet with parchment paper or a nonstick baking mat. Set aside.",
+                "4. Scoop 6 3 1/2-ounce mounds of dough (the size of generous golf balls) onto baking sheet, making sure to turn horizontally any chocolate pieces that are poking up; it will make for a more attractive cookie. Sprinkle lightly with sea salt and bake until golden brown but still soft, 18 to 20 minutes. Transfer sheet to a wire rack for 10 minutes, then slip cookies onto another rack to cool a bit more. Repeat with remaining dough, or reserve dough, refrigerated, for baking remaining batches the next day. Eat warm, with a big napkin."]
+        }
+    ]
+}
